@@ -5,7 +5,7 @@ El juego se explica a si mismo siguiendo las instrucciones de este y se juega en
 
 ## Ejecución:
 
-Ubicarse en la carpeta del archivo dentro de la lnea de comandos o la terminal y ejecutar el siguiente código:
+Ubicarse en la carpeta del archivo dentro de la linea de comandos o la terminal y ejecutar el siguiente código:
 
 ```
 python gato.py
