@@ -8,5 +8,5 @@ El juego se explica a si mismo siguiendo las instrucciones de este y se juega en
 Ubicarse en la carpeta del archivo dentro de la linea de comandos o la terminal y ejecutar el siguiente código:
 
 ```
-python gato.py
+python "el gato.py"
 ```
